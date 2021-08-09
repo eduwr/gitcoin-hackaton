@@ -7,3 +7,6 @@ This is a Task Submission from Git coin hackaton
 ![a link](./testnet-ckb-node-Screenshot%20from%202021-08-09%2013-24-47.png)
 
 ## 2. A screenshot of the console output from your local CKB Indexer after it has fully synchronized with the local Testnet CKB Node.
+
+
+![a link](./ckb-indexer-Screenshot%20from%202021-08-09%2013-40-37.png)
